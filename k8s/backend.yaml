@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ghcr.io/miramkhan/devops-api:PLACEHOLDER
+          image: ghcr.io/miramkhan/devops-api:4aad24b7bde86003467a89e593e6475377d9b4cc
           imagePullPolicy: IfNotPresent
 
           ports:
